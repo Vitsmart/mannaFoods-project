@@ -263,7 +263,7 @@ background-color: gray;
 }
 .logos img{
     height: 6rem;
-    width: 12rem;
+    
 
 }
 
@@ -842,7 +842,9 @@ margin-top: 6rem;
     color: #767676;
     transition: all 0.3s;
   }
-  
+  .foot{
+    margin-right: 3rem;
+  }
   .footer-link:hover,
   .footer-link:active {
     color: #555;
